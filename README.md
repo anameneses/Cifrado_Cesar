@@ -7,4 +7,22 @@ Proyecto 1 / Cifrado Cesar / semana 1 / intervencion 1
 3. El usuario deberá presionar el botón "Codificar"
 3. El Codigo Ascii será mostrado debajo del texto "Aqui se mostrará tu texto CIFRADO/DESCIFRADO.
 4. El resultado de este texto podrá ser copiado y pegado en la parte "Ingresa aqui un mensaje"
-5. El usuario deberá presionar el boton "Descodificar", lo cual le mostrará el mensaje original.
+5. El usuario deberá presionar el boton "Descodificar", lo cual le mostrará al usuario el mensaje original.
+
+MOTIVO DE USO
+Este Producto ha sido creado con la finalidad de tener como resultado algun mensaje importante el cual no podrá ser leido y/o entendido por cualquier usuario. Para que los involucrados puedan entender el mensaje escrito originalmente deberán tener acceso a esta herramienta.
+
+USABILIDAD
+Es un programa facil de usar, ya que la pagina ha sido diseñada para que el usuario pueda identificar los pasos a seguir.
+1.Introducir el texto
+2.Seleccionar caracteres
+3.Codificar
+4.Se muestra texto "Codificado" / copiar texto
+5.Pega tu texto "Codificado aqui"
+6.Descodificar
+7.Se muestra el texto original.
+
+TIPO DE USUARIO
+Este producto ha sido diseñado principalmente para quienes requieran enviar un texto codificado por diversos motivos:
+a)Seguridad
+b)Diversión
