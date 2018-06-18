@@ -14,15 +14,13 @@ Este Producto ha sido creado con la finalidad de tener como resultado algun mens
 
 USABILIDAD
 Es un programa facil de usar, ya que la pagina ha sido diseñada para que el usuario pueda identificar los pasos a seguir.
-1.Introducir el texto
-2.Seleccionar caracteres
-3.Codificar
-4.Se muestra texto "Codificado" / copiar texto
-5.Pega tu texto "Codificado aqui"
-6.Descodificar
-7.Se muestra el texto original.
+1.Introducir un mensaje
+2.Seleccionar caracteres (número)
+3.Codificar o Descodificar
+4.Se muestra texto "Codificado" / "Descodificado (copiar/pegar texto en"Ingresa un mensaje")
+
 
 TIPO DE USUARIO
-Este producto ha sido diseñado principalmente para quienes requieran enviar un texto codificado por diversos motivos:
+Este producto ha sido diseñado principalmente para quienes requieran enviar un texto codificado o descodificado por diversos motivos:
 a)Seguridad
 b)Diversión
